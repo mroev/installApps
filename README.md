@@ -29,8 +29,7 @@ Das Skript installiert die folgenden Anwendungen:
 
 - **Windows 10/11**: Winget ist auf diesen Windows-Versionen standardmäßig verfügbar.
 - **Winget**: Stelle sicher, dass der Windows Package Manager installiert ist. Du kannst dies überprüfen, indem du den folgenden Befehl in PowerShell ausführst:
-  ```powershell
-  winget --version
+  ```winget --version```
 
 ## Anleitung
 
